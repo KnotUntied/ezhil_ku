@@ -16,6 +16,16 @@ a,a:hover {
 	color: #F7630C;
 }
 
+.header .site-title {
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.header .site-description nav {
+	margin-left: 0;
+}
+
 .post .draft-label {
 	color: #F7630C;
 }
