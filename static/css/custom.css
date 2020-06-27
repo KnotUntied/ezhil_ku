@@ -1,0 +1,26 @@
+body {
+	font-family: "Work Sans", sans-serif;
+	font-weight: 400;
+}
+
+a, a:hover {
+	color: #F7630C;
+}
+
+blockquote {
+	font-family: "Zilla Slab", serif;
+	border-color: #F7630C;
+}
+
+a,a:hover {
+	color: #F7630C;
+}
+
+.post .draft-label {
+	color: #F7630C;
+}
+
+.post-tags .tags a {
+	border: 1px solid #F7630C;
+	color: #F7630C;
+}
