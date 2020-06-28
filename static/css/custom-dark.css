@@ -2,16 +2,6 @@ a, a:hover {
 	color: #FF8C00;
 }
 
-::-moz-selection {
-    background: initial;
-    text-shadow: initial;
-}
-
-::selection {
-    background: initial;
-    text-shadow: initial;
-}
-
 blockquote {
 	border-color: #FF8C00;
 }

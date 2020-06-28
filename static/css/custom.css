@@ -7,16 +7,6 @@ a, a:hover {
 	color: #F7630C;
 }
 
-::-moz-selection {
-    background: initial;
-    text-shadow: initial;
-}
-
-::selection {
-    background: initial;
-    text-shadow: initial;
-}
-
 blockquote {
 	font-family: "Zilla Slab", serif;
 	border-color: #F7630C;

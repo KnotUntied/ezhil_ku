@@ -16,16 +16,6 @@ html,button,input,select,textarea {
     color: #333;
 }
 
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
 hr {
     display: block;
     height: 1px;
